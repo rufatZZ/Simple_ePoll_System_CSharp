@@ -1,0 +1,16 @@
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\bin\Debug\ePoll.exe.config
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\bin\Debug\ePoll.exe
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\bin\Debug\ePoll.pdb
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll.csprojResolveAssemblyReference.cache
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\MainWindow.g.cs
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\App.g.cs
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll_MarkupCompile.cache
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll_MarkupCompile.lref
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\MainWindow.baml
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll.g.resources
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll.Properties.Resources.resources
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll.csproj.GenerateResource.Cache
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll.exe
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll.pdb
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll_Select.g.cs
+c:\users\rufat\documents\visual studio 2015\Projects\ePoll\ePoll\obj\Debug\ePoll_Select.baml
