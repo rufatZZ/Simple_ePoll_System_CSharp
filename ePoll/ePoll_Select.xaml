@@ -7,13 +7,12 @@
         mc:Ignorable="d"
         Title="ePoll_Select" Height="350" Width="525">
     <Grid>
-        <Label x:Name="label" Content="Choose your side" HorizontalAlignment="Center" Margin="90,36,98,0" VerticalAlignment="Top" Width="104" RenderTransformOrigin="-0.043,0.531" FontWeight="Bold"/>
-
+        <Label x:Name="label" Content="Choose your side" HorizontalAlignment="Center" Margin="202,36,148,0" VerticalAlignment="Top" Width="167" RenderTransformOrigin="-0.043,0.531" FontWeight="Bold" FontSize="18"/>
         <Label x:Name="label1" Content="Dark Side" VerticalAlignment="Top" FontWeight="Bold" Margin="62,62,-62,0"/>
         <RadioButton x:Name="radioButtonDark" Content="Darth Vader" VerticalAlignment="Top" Checked="radioButton_Checked" Margin="62,88,-62,0"/>
         <Label x:Name="label2" Content="Light Side" VerticalAlignment="Top" FontWeight="Bold" Margin="62,110,-62,0"/>
         <RadioButton x:Name="radioButtonLight" Content="Master Joda" VerticalAlignment="Top" Margin="62,141,-62,0"/>
         <Button x:Name="button" Content="Vote !" VerticalAlignment="Top" Margin="62,171,357,0" Height="27" Click="button_Click"/>
-        <Image x:Name="image" HorizontalAlignment="Left" Height="136" Margin="296,62,0,0" VerticalAlignment="Top" Width="211" Source="https://mi-od-live-s.legocdn.com/r/www/r/club/-/media/club2/content%20model/articles/2014/star%20wars/star%20wars%20force%20o%20meter/sw-forceometer-tout.jpg?l.r2=1828281534"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="136" Margin="296,70,0,0" VerticalAlignment="Top" Width="211" Source="https://mi-od-live-s.legocdn.com/r/www/r/club/-/media/club2/content%20model/articles/2014/star%20wars/star%20wars%20force%20o%20meter/sw-forceometer-tout.jpg?l.r2=1828281534"/>
     </Grid>
 </Window>

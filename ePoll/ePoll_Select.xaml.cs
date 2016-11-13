@@ -31,6 +31,7 @@ namespace ePoll
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
+            
             if (radioButtonDark.IsChecked == true)
             {
                 MessageBox.Show("You vote for Dark Empire. You`re Darkside. Thanks!");
